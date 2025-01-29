@@ -1,0 +1,13 @@
+Para hacer por el momento:
+------------------------------------------------------------
+
+hemos hecho un banner donde muestra imagenes.
+
+que quiero hacer con esa banner para cumplir lo que quiero hacer con ese componente:
+
+*quiero poder elegir la imagen para poner en el banner
+**elegir la ubicacion donde la quiero poner
+***manejar el titulo
+****ponerle un hiperenlace que me ubique en la informacion de dicho banner en una pagina
+
+con esto cumplimos lo basico del banner 😉

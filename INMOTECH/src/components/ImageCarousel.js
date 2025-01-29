@@ -27,7 +27,7 @@ function ImageCarousel() {
     ]);
     
     return (
-        <Carousel className="cr" interval={1000} controls indicators>
+        <Carousel className="cr" interval={3000} controls indicators>
             {images.map((image, index) => (
                 <Carousel.Item key={index}>
                     <img

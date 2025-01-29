@@ -18,18 +18,6 @@ root.render(
         <div>
             <h1>Hola, mundo desde React!</h1>
         </div>
-        <div>
-            <h1>Hola, mundo desde React!</h1>
-        </div>
-        <div>
-            <h1>Hola, mundo desde React!</h1>
-        </div>
-        <div>
-            <h1>Hola, mundo desde React!</h1>
-        </div>
-        <div>
-            <h1>Hola, mundo desde React!</h1>
-        </div>
     </div>
 );
 //?aplicar estilo css en las etiquetas
