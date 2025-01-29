@@ -5,12 +5,12 @@ import './styles/index.css';
 import { Container, Row, Col } from 'react-bootstrap';
 
 /*componentes*/
-import ImageCarousel from './components/ImageCarousel';
+import Carrousel from './components/Carrousel';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <div>
-        <ImageCarousel />
+        <Carrousel />
         <header>
             <img src='./public/imagenes/logo/logo_200x200.png'/>
             <h1>Inmotech</h1>
