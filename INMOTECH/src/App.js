@@ -1,7 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
-// import './styles/index.css';
+
+/*bootstrap */
+import 'bootstrap/dist/css/bootstrap.min.css'; // Importa los estilos de Bootstrap
 // import { Container, Row, Col } from 'react-bootstrap';
+
+/*css */
+// import './styles/index.css';
 
 /* componentes */
 import Navegacion from './components/Navegacion';
@@ -20,7 +25,6 @@ function App() {
   return (
     <Router>
         <div>
-            <h1>¡Hola, mundo!</h1>
             <Navegacion />
 
             <Routes>
