@@ -5,8 +5,8 @@ import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css'; // Importa los estilos de Bootstrap
 // import { Container, Row, Col } from 'react-bootstrap';
 
-/*css */
-// import './styles/index.css';
+import './styles/index.css';
+
 
 /* componentes */
 import Navegacion from './components/Navegacion';
@@ -24,7 +24,7 @@ import Contacto from './components/Contacto'; // Importa el componente Contacto
 function App() {
   return (
     <Router>
-        <div>
+        <div className='main'>
             <Navegacion />
 
             <Routes>

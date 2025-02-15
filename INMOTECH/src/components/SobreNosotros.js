@@ -2,9 +2,14 @@ import React from 'react';
 
 function SobreNosotros() {
     return (
-          <div style={{ backgroundColor: 'blue' }}>
-              <h1>¡Hola, mundo Sobre Nosotros!</h1>
-          </div>
+        <div className="container contenido">
+            <div className="row fila">
+                <div className="col-12 columna">
+                    <h2>Sección 1</h2>
+                    <p>Contenido de la sección 1.</p>
+                </div>
+            </div>
+        </div>
     );
   }
   

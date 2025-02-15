@@ -1,0 +1,21 @@
+.menu-todo{
+    width: 100%;
+    background-color: #2F2A25 !important;
+}
+
+#contenedor1{
+    position: sticky;
+    top: 0px;
+    z-index: 1000;
+}
+.color-letras{
+    color:white;
+}
+
+.color-letras:hover{
+    color: #D64218;
+}
+
+a:focus{
+    color: yellow !important;
+}

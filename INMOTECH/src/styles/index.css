@@ -1,5 +1,32 @@
-header{
+/* div{
     width: 100%;
     height: 191px;
     background-color: red;
+    margin-top: 10px;
+} */
+
+.main{
+    height: 5700px !important;
+    background-color: #A5ABAF;
+}
+
+.contenido{
+    width: 100% !important;
+    height: 1080px;
+}
+
+.fila{
+    width: 101.6% !important;
+    height: 1080px;
+}
+
+.columna{
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+@media (min-width: 1400px) {
+    .contenido {
+        max-width: 100% !important;
+    }
 }
