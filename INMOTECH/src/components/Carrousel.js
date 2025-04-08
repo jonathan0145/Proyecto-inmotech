@@ -1,7 +1,5 @@
 // App.js (o tu componente principal)
 import React, { useState } from 'react';
-import ImageCarousel from './ImageCarousel';
-import ImageUploader from './ImageUploader';
 import 'bootstrap/dist/css/bootstrap.min.css'; // Importa los estilos de Bootstrap
 // import './styles/imageCarousel.css'; // Importa tus estilos CSS
 
